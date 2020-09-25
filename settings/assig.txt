@@ -1,0 +1,9 @@
+1.1 Introduction
+this hotel management system is a better way of administering a hotel in
+a much easier and modern way. This includes from assigning a room for a
+customer to preserving a room online and storing the user information to
+the database permanently. This program is assumed to be running on a
+hotel that have 50 rooms.
+1.2 Background
+The system will operated by the following 3 user types. With each of
+them having their own defined work an privileges
